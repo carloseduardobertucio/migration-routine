@@ -1,0 +1,14 @@
+{
+    "users_config": {
+        "file_name": "Usuarios",
+        "column_pattern": "Nome;Email;Estado"
+    },
+    "products_config": {
+        "file_name": "Produtos",
+        "column_pattern": "Produto;Valor;Categoria"
+    },
+    "sales_config": {
+        "file_name": "Venda",
+        "column_pattern": "DataVenda;Status;EmailUsuario;Produto"
+    }
+}
